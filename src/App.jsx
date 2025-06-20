@@ -1,12 +1,12 @@
 import React from "react";
-import SignIn from "./components/SignIn";
+import AddItems from "./components/AddItem";
 
 const app = () => {
   
   return (
     < div >
-      <SignIn/>
-
+    <AddItems/>
+      
     </div >
 
   ) 
