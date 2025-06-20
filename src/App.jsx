@@ -1,12 +1,13 @@
 import React from "react";
-import AddItems from "./components/AddItem";
+import ViewItem from "./components/ViewItem";
+// import AddItems from "./components/AddItem";
 
 const app = () => {
   
   return (
     < div >
-    <AddItems/>
-      
+    {/* <AddItems/> */}
+      <ViewItem/>
     </div >
 
   ) 
